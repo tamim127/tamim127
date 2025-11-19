@@ -85,6 +85,20 @@ Currently focusing on **Full-Stack Development** with the MERN stack.
 
 ---
 
+## 🏆 Projects Showcase
+
+Here are some of my featured projects:
+
+- **Kiddy Toy Store** – [GitHub](https://github.com/tamim127/kiddy-toy-store) | [Live Demo]( https://kiddy-toy-store.netlify.app/)  
+  Modern e-commerce platform for toys with React, Tailwind, Firebase & DaisyUI.  
+
+- **Hero App** – [GitHub](https://github.com/tamim127/hero-app) | [Live Demo](https://react-hero-apps-store-bd.netlify.app/)  
+  Productivity & task management app built with React, Tailwind & Material UI.  
+
+- **Utility Bill Management System** – [GitHub](https://github.com/tamim127/utility-bill-management-system) | [Live Demo](https://utility-bills-management-system.netlify.app/)  
+  Node.js + Express.js backend to manage and generate utility bills with MongoDB & PDFKit.
+
+
 ## 🔗 Connect With Me
 <p>
   <a href="https://github.com/tamim127/"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
