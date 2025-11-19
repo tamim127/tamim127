@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me
 I’m a passionate Web Developer from **Rajshahi, Bangladesh**.  
-I love building efficient, scalable and modern web applications.  
+I love building efficient, scalable, and modern web applications.  
 Currently focusing on **Full-Stack Development** with the MERN stack.
 
 - 🔭 I’m currently working on: **Modern Website Project**
@@ -48,19 +48,31 @@ Currently focusing on **Full-Stack Development** with the MERN stack.
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,materialui,daisyui" />
 </p>
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-### **Tools & Others**
+### **Design & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
-  
+  <img src="https://skillicons.dev/icons?i=figma,adobephotoshop,pixso,dribbble" />
 </p>
+
+### **Social Media**
+<p>
+  <img src="https://skillicons.dev/icons?i=facebook,instagram,x" />
+</p>
+
+### **Other Utilities**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
 ## 📊 GitHub Stats — MD TAMIUL ALAM
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tamim127&show_icons=true&theme=radical" />
@@ -73,20 +85,13 @@ Currently focusing on **Full-Stack Development** with the MERN stack.
 
 ---
 
-
----
-
 ## 🔗 Connect With Me
 <p>
   <a href="https://github.com/tamim127/"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
   <a href="mailto:eishatahmedtamim70@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
   <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://x.com/EishatTamim70" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" width="40"/></a>
 </p>
 
+
 ---
-
-
-
-
-
-
